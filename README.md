@@ -1,6 +1,6 @@
 # Scimark
 
-Edit embedded markdown tables in [SC-IM] in Vim.
+Edit embedded markdown tables in [SC-IM] in Vim. (Personal fork)
 
 ![scimark demo](demo.gif)
 
